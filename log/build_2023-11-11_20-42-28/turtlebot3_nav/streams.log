@@ -1,0 +1,34 @@
+[1.487s] Invoking command in '/Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/src/turtlebot3_nav': CONDA_PROMPT_MODIFIER=(ros_env) PYTHONPATH=/Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/prefix_override:/Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/lib/python3.10/site-packages:${PYTHONPATH} SHLVL=6 VIRTUAL_ENV_PROMPT=(.venv) _=/usr/bin/env /Users/lyo.quintao/anaconda3/envs/ros_env/bin/python3.10 setup.py egg_info --egg-base ../../build/turtlebot3_nav build --build-base /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/build install --record /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/install.log --single-version-externally-managed
+[1.944s] running egg_info
+[1.944s] creating ../../build/turtlebot3_nav/turtlebot3_nav.egg-info
+[1.977s] writing ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/PKG-INFO
+[2.003s] writing dependency_links to ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/dependency_links.txt
+[2.134s] writing requirements to ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/requires.txt
+[2.160s] writing top-level names to ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/top_level.txt
+[2.160s] writing manifest file '../../build/turtlebot3_nav/turtlebot3_nav.egg-info/SOURCES.txt'
+[2.202s] reading manifest file '../../build/turtlebot3_nav/turtlebot3_nav.egg-info/SOURCES.txt'
+[2.203s] writing manifest file '../../build/turtlebot3_nav/turtlebot3_nav.egg-info/SOURCES.txt'
+[2.203s] running build
+[2.203s] running build_py
+[2.203s] creating /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/build
+[2.203s] creating /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/build/lib
+[2.203s] creating /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/build/lib/turtlebot3_nav
+[2.203s] copying turtlebot3_nav/__init__.py -> /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/build/lib/turtlebot3_nav
+[2.203s] running install
+[2.204s] /Users/lyo.quintao/anaconda3/envs/ros_env/lib/python3.10/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.204s]   warnings.warn(
+[2.207s] running install_lib
+[2.240s] creating /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/lib/python3.10/site-packages/turtlebot3_nav
+[2.240s] copying /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/build/lib/turtlebot3_nav/__init__.py -> /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/lib/python3.10/site-packages/turtlebot3_nav
+[2.240s] byte-compiling /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/lib/python3.10/site-packages/turtlebot3_nav/__init__.py to __init__.cpython-310.pyc
+[2.241s] running install_data
+[2.248s] creating /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/share/ament_index
+[2.248s] creating /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/share/ament_index/resource_index
+[2.248s] creating /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/share/ament_index/resource_index/packages
+[2.248s] copying resource/turtlebot3_nav -> /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/share/ament_index/resource_index/packages
+[2.249s] copying package.xml -> /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/share/turtlebot3_nav
+[2.249s] running install_egg_info
+[2.284s] Copying ../../build/turtlebot3_nav/turtlebot3_nav.egg-info to /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/lib/python3.10/site-packages/turtlebot3_nav-0.0.0-py3.10.egg-info
+[2.285s] running install_scripts
+[2.355s] writing list of installed files to '/Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/install.log'
+[2.374s] Invoked command in '/Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/src/turtlebot3_nav' returned '0': CONDA_PROMPT_MODIFIER=(ros_env) PYTHONPATH=/Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/prefix_override:/Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/install/turtlebot3_nav/lib/python3.10/site-packages:${PYTHONPATH} SHLVL=6 VIRTUAL_ENV_PROMPT=(.venv) _=/usr/bin/env /Users/lyo.quintao/anaconda3/envs/ros_env/bin/python3.10 setup.py egg_info --egg-base ../../build/turtlebot3_nav build --build-base /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/build install --record /Users/lyo.quintao/Documents/development/Projects/ponderada2_mod8/build/turtlebot3_nav/install.log --single-version-externally-managed
