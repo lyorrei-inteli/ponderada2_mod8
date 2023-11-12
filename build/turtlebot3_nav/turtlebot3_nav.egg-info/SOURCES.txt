@@ -4,7 +4,6 @@ setup.py
 ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/PKG-INFO
 ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/SOURCES.txt
 ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/dependency_links.txt
-../../build/turtlebot3_nav/turtlebot3_nav.egg-info/entry_points.txt
 ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/requires.txt
 ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/top_level.txt
 ../../build/turtlebot3_nav/turtlebot3_nav.egg-info/zip-safe
