@@ -1,4 +1,4 @@
-#!/Users/lyo.quintao/anaconda3/envs/ros_env/bin/python3.10
+#!/usr/bin/python3
 # EASY-INSTALL-ENTRY-SCRIPT: 'turtlebot3-nav==0.0.0','console_scripts','nav'
 import re
 import sys

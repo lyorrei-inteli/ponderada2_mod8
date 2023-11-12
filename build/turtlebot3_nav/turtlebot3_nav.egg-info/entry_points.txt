@@ -1,2 +1,3 @@
 [console_scripts]
 nav = turtlebot3_nav.turtlebot3_nav:main
+
