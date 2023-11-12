@@ -1,7 +1,7 @@
 <launch>
-  <node pkg="turtlebot3_teleop" exec="teleop_keyboard" name="controller" launch-prefix="xterm -e" output="screen" />
   <include file="$(find-pkg-share turtlebot3_navigation2)/launch/navigation2.launch.py">
     <arg name="use_sim_time" value="True" />
     <arg name="map" value="/maps/map.yaml" />
   </include>
+  <include file="$(find-pkg-share turtlebot3_gazebo)/launch/turtlebot3_world.launch.py"/>
 </launch>
