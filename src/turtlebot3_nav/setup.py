@@ -24,6 +24,8 @@ setup(
     license="TODO: License declaration",
     tests_require=["pytest"],
     entry_points={
-        "console_scripts": [],
+        "console_scripts": [
+          "nav=turtlebot3_nav.turtlebot3_nav:main"
+        ],
     },
 )
